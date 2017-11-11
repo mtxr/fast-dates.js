@@ -8,6 +8,12 @@ This project looks forward to do Date operations fast, really fast.
 npm install fast-dates
 ```
 
+Or
+
+```bash
+yarn add fast-dates
+```
+
 ## Usage
 
 ```javascript
